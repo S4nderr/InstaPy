@@ -142,7 +142,7 @@ class InstaPy:
         self.like_percentage = 0
         self.smart_hashtags = []
 
-        self.dont_like = ['sex', 'nsfw']
+        self.dont_like = []
         self.mandatory_words = []
         self.ignore_if_contains = []
         self.ignore_users = []

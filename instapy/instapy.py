@@ -18,7 +18,7 @@ from selenium.webdriver import DesiredCapabilities
 from selenium.webdriver.common.proxy import Proxy, ProxyType
 import requests
 
-from .clarifai_util import check_image
+#from .clarifai_util import check_image
 from .comment_util import comment_image
 from .like_util import check_link
 from .like_util import verify_liking
